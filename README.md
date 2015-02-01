@@ -39,7 +39,7 @@ To customize color for loader just set it with appearance proxy like this
 
 Add the following to your [CocoaPods](http://cocoapods.org/) Podfile
 
-`pod 'UINavigationItem+Loading', '~> 1.0'`
+`pod 'UINavigationItem+Loading', '~> 1.1'`
 
 or clone it as a git submodule,
 

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'UINavigationItem+Loading'
-  s.version  = '1.0'
+  s.version  = '1.1'
   s.ios.deployment_target   = '6.0'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = 'Simple category to show a loading status in a navigation bar in place of left/right items or title.'
